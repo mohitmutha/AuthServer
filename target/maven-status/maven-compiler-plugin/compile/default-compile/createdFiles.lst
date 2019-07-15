@@ -1,5 +1,0 @@
-com\mm\poc\controllers\HelloController.class
-com\mm\poc\config\WebSecurityConfig.class
-com\mm\poc\config\CustomTokenEnhancer.class
-com\mm\poc\config\OAuth2AuthorizationServerConfig.class
-com\mm\poc\App.class
